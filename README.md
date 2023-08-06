@@ -1,6 +1,6 @@
 # abc-typing-timer
 
-![Demo Video](https://i.imgur.com/G1YP84j.gif)
+![Demo Video](./demo/typing_demo.gif)
 
 Commands to start app on Windows:
 
